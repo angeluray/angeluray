@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Interactive To-Do List📋](https://github.com/angeluray/angel-todo-list)
 
-- 🌱 I’m currently learning **Javascript at Microverse**
+- 🌱 I’m currently learning **Javascript at Microverse.**
 
-- 👯 I’m willing to collaborate on **Javascript projects**
+- 👯 I’m willing to collaborate on **Javascript projects.**
 
 - 🤝 I’m looking for make new connections **feel free to reach me out, we could build the next big project of the world together.**
 
