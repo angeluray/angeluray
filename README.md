@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFJO6nPwn0/f9W_wI-ZI-1IuupupEcpew/edit?utm_content=DAFJO6nPwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+[!MasterHead](https://www.canva.com/design/DAFJO6nPwn0/f9W_wI-ZI-1IuupupEcpew/edit?utm_content=DAFJO6nPwn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Angel Uray</h1>
 <h3 align="center">A passionate Full Stack Developer from Venezuela</h3>
 
