@@ -5,13 +5,15 @@
 
 ### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻  Working remotely since 2022🚀</div>  
   
-
 - 🔭 I’m currently working on [To-Do List App](https://github.com/angeluray/angel-todo-list)  
   
 
 - 🌱 I’m currently learning Javascript at Microverse  
-  
 
+
+- 🤝 Looking for collaborate and make strong connections, **feel free to reach me out, we could build the next biggest project of the world together.**
+  
+  
 - ❓ Ask me about anything related to Javascript stack and related technologies  
   
 
@@ -63,7 +65,8 @@
 <br/>  
 
 
-## Connect with me  
+## Find me around the web🌎:
+
 <div align="center">
 <a href="https://instagram.com/angeluray" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -95,17 +98,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angeluray&" alt="angeluray" /></p>
 
 <br/>
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=angeluray&&style=flat-square" align="center" />
