@@ -1,4 +1,3 @@
-![ANGEL URAY FULL STACK SOFTWARE DEVELOPER](https://user-images.githubusercontent.com/97189760/184509421-303cf97b-3e87-4ce2-9c91-2f64c851ef64.png)
 <h1 align="center">Hi 👋, I'm Angel Uray</h1>
 <h3 align="center">A passionate Full Stack Developer from Venezuela</h3>
 
