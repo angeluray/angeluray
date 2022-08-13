@@ -11,10 +11,10 @@
 - 🌱 I’m currently learning Javascript at Microverse  
 
 
-- 🤝 Looking for collaborate and make strong connections, **feel free to reach me out, we could build the next biggest project of the world together.**
+- 🤝 Looking for collaborate and make strong connections </br> **feel free to reach me out, we could build the next biggest project of the world together.**
   
   
-- ❓ Ask me about anything related to Javascript stack and related technologies  
+- ❓ Ask me about anything related to JavaScript stack and related technologies  
   
 
 - ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
