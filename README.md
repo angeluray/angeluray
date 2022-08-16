@@ -68,7 +68,7 @@
 <br/>  
 
 
-## Contact me around the Web🌎:
+## Contact me around the Web🌎
 
 <div align="center">
 <a href="https://instagram.com/angeluray" target="_blank">
