@@ -68,7 +68,7 @@
 <br/>  
 
 
-## Find me around the web🌎:
+## Contact me around the Web🌎:
 
 <div align="center">
 <a href="https://instagram.com/angeluray" target="_blank">
@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats 📊 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angeluray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
