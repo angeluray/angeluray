@@ -3,15 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻  Working remotely since 2022🚀</div>  
+### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻  Working remotely since 2022🚀</div>
+
   
 - 🔭 I’m currently working on [To-Do List App](https://github.com/angeluray/angel-todo-list)  
   
 
-- 🌱 I’m currently learning Javascript at Microverse  
+- 🌱 I’m currently learning JavaScript as part of my Web Development career path at Microverse.
 
 
-- 🤝 Looking for collaborate and make strong connections </br> **feel free to reach me out, we could build the next biggest project of the world together.**
+- 🤝 Looking for collaborate and make strong connections</br>feel free to reach me out at **aeucampos@gmail.com** , build great projects with you is the approach!
   
   
 - ❓ Ask me about anything related to JavaScript stack and related technologies  
