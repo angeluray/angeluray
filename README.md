@@ -8,7 +8,7 @@
 </br>
 
   
-- 🔭 I’m currently working on [Movies App](https://mov305.github.io/moviesC2/dist/) 
+- 🔭 I’m currently working on [Space Traveler's Hub](https://darling-baklava-e2b8d5.netlify.app/) 
   
 
 - 🌱 I’m currently learning React as part of my Web Development career path at Microverse.
@@ -17,7 +17,7 @@
 - 🤝 Looking for collaborate and make strong connections:</br>Feel free to reach me out, build great projects with you is the approach!
   
   
-- ❓ Ask me about anything related to JavaScript, React, Redux stack and related technologies.  
+- ❓ Ask me about anything related to JavaScript, React, Redux, Ruby, Ruby on Rails stack and related technologies.  
   
 
 - ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
