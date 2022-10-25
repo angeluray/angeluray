@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Space Traveler's Hub](https://darling-baklava-e2b8d5.netlify.app/) 
   
 
-- 🌱 I’m currently learning React as part of my Web Development career path at Microverse.
+- 🌱 I’m currently learning Databases, Ruby and Ruby on Rails as part of my Web Development career path at Microverse.
 
 
 - 🤝 Looking for collaborate and make strong connections:</br>Feel free to reach me out, build great projects with you is the approach!
