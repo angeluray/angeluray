@@ -7,11 +7,11 @@
 
 </br>
   
-- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, client side, server side, and all that means facing challenges because they develop my skills, the same skills that allow me to apply best practices while creating and maintaining projects of all sizes. 🌱 I never stop learning cause the code never stop teaching. 
+- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, Client-side, Server-side, and all that means facing challenges. Applying best practices while creating and maintaining projects of all sizes is my hobbie, that's why 🌱 I never stop learning, cause the code never stop teaching.
   
 - 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
   
-- ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
+- ⚡ Fun fact: I'm a keen speaker, Photographer, Radio-host and languages cotorro 🦜  
   
 
 <br/>
@@ -74,28 +74,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Contact me around the Web🌎
-
-<div align="center">
-<a href="https://instagram.com/angeluray" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/atangeluray" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/angeluray" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/angeluray" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats 📊 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angeluray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
