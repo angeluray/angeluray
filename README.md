@@ -6,6 +6,15 @@
 ### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻 </div>
 
 </br>
+  
+- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, client side, server side, and all that means facing challenges because they develop my skills, the same skills that allow me to apply best practices while creating and maintaining projects of all sizes. 🌱 I never stop learning cause the code never stop teaching. 
+  
+- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
+  
+- ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
+  
+
+<br/>
 
 <div align="center">
 <a href="https://instagram.com/angeluray" target="_blank">
@@ -23,15 +32,6 @@
 </div> 
 
 </br>
-  
-- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, client side, server side, and all that means facing challenges because they develop my skills, the same skills that allow me to apply best practices while creating and maintaining projects of all sizes. 🌱 I never stop learning cause the code never stop teaching. 
-  
-- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
-  
-- ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
-  
-
-<br/>  
 
 
 ## My Skill Set 🧩
