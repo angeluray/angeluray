@@ -3,23 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻  Working remotely since 2022🚀</div>
+### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻 </div>
 
 </br>
 
   
-- 🔭 I’m currently working on [Space Traveler's Hub](https://darling-baklava-e2b8d5.netlify.app/) 
+- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, client side, server side, and all that means facing challenges because they develop my skills, the same skills that allow me to apply best practices while creating and maintaining projects of all sizes. 🌱 I never stop learning cause the code never stop teaching. 
   
-
-- 🌱 I’m currently learning Databases, Ruby and Ruby on Rails as part of my Web Development career path at Microverse.
-
-
-- 🤝 Looking for collaborate and make strong connections:</br>Feel free to reach me out, build great projects with you is the approach!
+- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
   
-  
-- ❓ Ask me about anything related to JavaScript, React, Redux, Ruby, Ruby on Rails stack and related technologies.  
-  
-
 - ⚡ Fun fact: I'm a keen speaker and languages cotorro 🦜  
   
 
