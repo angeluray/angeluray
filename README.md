@@ -8,10 +8,8 @@
 </br>
   
 - 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, Client-side, Server-side, and all that means facing challenges. Applying best practices while creating and maintaining projects of all sizes is my hobbie, that's why 🌱 I never stop learning, cause the code never stop teaching.
-  
-- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
-  
-- ⚡ Fun fact: I'm a keen speaker, Photographer, Radio-host and languages cotorro 🦜  
+
+- ⚡ Fun fact: I'm a keen Speaker, Photographer, Radio-host, and since I learned to code I am languages cotorro 🦜  
   
 
 <br/>
@@ -73,7 +71,9 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
 
 ## Github Stats 📊 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=angeluray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
