@@ -27,7 +27,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/angeluray?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/angeluray?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/angeluray?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<img alt="GitHub watchers" src="https://custom-icon-badges.demolab.com/github/watchers/angeluray/angeluray?color=23E1AD0E&label=Github%20views&logo=logo&logoColor=23E1AD0E&style=for-the-badge">
  
 </div> 
 
