@@ -30,8 +30,6 @@
  
 </div> 
 
-</br>
-
 ---
 
 ## 💻 Tech Stack:
@@ -41,23 +39,16 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="10" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="10" /></a>  
 </div>  
 
 <br/>
 
-## Github Stats 📊 
-
-<div><img src="https://github-readme-stats.vercel.app/api?username=angeluray&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angeluray&show_icons=true&locale=en&layout=compact" alt="angeluray"</p>
-
-<br/>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angeluray&" alt="angeluray" /></p>
+# 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=angeluray&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=angeluray&theme=tokyonight&hide_border=false)<br/>
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluray&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
