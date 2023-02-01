@@ -30,8 +30,8 @@
   <a href="https://github.com/angeluray/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/angeluray-profile-views"/>
   </a>
-  ![GitHub watchers](https://img.shields.io/github/watchers/angeluray/angeluray?color=23E1AD0E&label=Github%20views&logo=logo&logoColor=23E1AD0E&style=for-the-badge)
 <img alt="GitHub watchers" src="https://custom-icon-badges.demolab.com/github/watchers/angeluray/angeluray?color=23E1AD0E&label=Github%20views&logo=logo&logoColor=23E1AD0E&style=for-the-badge">
+  https://camo.githubusercontent.com/7775816f77b5d1ac3d640afa27f227778c6ef6c9a449937a0a4188887068b6df/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e67656c7572617926267374796c653d666c61742d737175617265
 </div> 
 
 </br>
@@ -96,17 +96,3 @@
 <img src="https://komarev.com/ghpvc/?username=angeluray&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/angeluray" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
