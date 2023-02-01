@@ -36,9 +36,9 @@
 
 <br/>
 
-# 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=angeluray&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=angeluray&theme=tokyonight&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=angeluray&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=angeluray&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
