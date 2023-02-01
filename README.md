@@ -3,30 +3,33 @@
 </div>  
   
 
-### <div align="center">I'm Angel Uray, a full-time Full-Stack Software Developer 👨‍💻 </div>
+# Angel Uray 👨‍💻 
+**`Full-Stack Software Developer, technologically creative`**
 
 </br>
   
-- 🔭 I’m currently building Frontend, Back-end, and Full-Stack deadline driven projects with Ruby, Ruby on Rails, React, Redux.js and more. I'm passionate about debugging, refactoring, Client-side, Server-side, and all that means facing challenges. Applying best practices while creating and maintaining projects of all sizes is my hobbie, that's why 🌱 I never stop learning, cause the code never stop teaching.
+🔭 I am a self-taught Full-Stack software developer passionate about creating web solutions on the Internet. Client-side and server-side is part of my daily routine, as I am currently building and maintaining Frontend, Back-end, and Full-Stack deadline-driven projects remotely with Ruby, Ruby on Rails, PostgreSQL, React, Redux.js, Testing, and more. Good communication, attention to detail, time management, adaptability, problem-solving skills, and my ability to learn new things quickly are my keys when working alone or in collaboration with multicultural teams through asynchronous work or pair programming. I love to face new challenges because they make me scale my skills. That's why I never stop learning because code never stops teaching🌱. 
 
-- 🤝 Open to collaborate, and bring all my commitment and attention to achieve any approach.
-
-- ⚡ Fun fact: I'm a keen Speaker, Photographer, Radio-host, and since I learned to code I am languages cotorro 🦜  
-  
+- ⚡ Fun fact: I'm a keen Speaker, and since I learned to code I am a languages cotorro 🦜
+- 🤝 Open to work and collaborate!
 
 <br/>
 
+<p align="center">
+  <a href="https://twitter.com/atangeluray"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/angeluray"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
+
 <div align="center">
-  
-<a href="https://twitter.com/atangeluray" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/angeluray" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/angeluray" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
+  <a href="https://github.com/angeluray?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/angeluray?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/angeluray?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/angeluray?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/angeluray/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/angeluray-profile-views"/></a>
+
 </div> 
 
 </br>
