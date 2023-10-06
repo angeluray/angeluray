@@ -8,7 +8,7 @@
 
 </br>
   
-🔭 I am a self-taught Full-Stack software developer passionate about creating web solutions on the Internet. Client-side and server-side is part of my daily routine, as I am currently building and maintaining Frontend, Back-end, and Full-Stack deadline-driven projects remotely with Ruby, Ruby on Rails, PostgreSQL, React, Redux.js, Testing, and more. Good communication, attention to detail, time management, adaptability, problem-solving skills, and my ability to learn new things quickly are my keys when working alone or in collaboration with multicultural teams through asynchronous work or pair programming. I love to face new challenges because they make me scale my skills. That's why I never stop learning because code never stops teaching🌱. 
+🔭 I am a Full-Stack software developer passionate about creating web solutions on the Internet. Client-side and server-side is part of my daily routine, as I am currently building and maintaining Frontend, Back-end, and Full-Stack deadline-driven projects remotely with Ruby, Ruby on Rails, PostgreSQL, React, Redux.js, Testing, and more. Good communication, attention to detail, time management, adaptability, problem-solving skills, and my ability to learn new things quickly are my keys when working alone or in collaboration with multicultural teams through asynchronous work or pair programming. I love to face new challenges because they make me scale my skills. That's why I never stop learning because code never stops teaching🌱. 
 
 - ⚡ Fun fact: I'm a keen Speaker, and since I learned to code I am a languages cotorro 🦜
 - 🤝 Open to work and collaborate!
